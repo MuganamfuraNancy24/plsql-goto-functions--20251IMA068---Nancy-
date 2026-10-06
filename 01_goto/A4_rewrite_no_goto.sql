@@ -1,1 +1,12 @@
-
+DECLARE
+    num NUMBER := 15;
+BEGIN
+    IF num > 0 THEN
+        DBMS_OUTPUT.PUT_LINE('The number ' || num || ' is POSITIVE.');
+    ELSIF num < 0 THEN
+        DBMS_OUTPUT.PUT_LINE('The number ' || num || ' is NEGATIVE.');
+    ELSE
+        DBMS_OUTPUT.PUT_LINE('The number is ZERO.');
+    END IF;
+END;
+/
