@@ -9,6 +9,6 @@
 ###  A4_output.png
 ![ A4_output.png](https://github.com/MuganamfuraNancy24/plsql-goto-functions--20251IMA068---Nancy-/blob/ad8c6d2a13432d1e8ee6a0809ba4a7ff56852e0f/screenshots/A4_output.png.png)
 ###  B5_select_output.png
-![ B5_select_output.png](
+![ B5_select_output.png](https://github.com/MuganamfuraNancy24/plsql-goto-functions--20251IMA068---Nancy-/blob/98e7aa288dc9d7786fe0280e177f86983adc02e7/screenshots/B5_select_output.png%201.png)
 ###  C1_output.png
 ![ C1_output.png](
